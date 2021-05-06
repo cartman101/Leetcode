@@ -1,0 +1,105 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch reversrNum",
+            "request": "launch",
+            "mainClass": "reversrNum",
+            "projectName": "leetcode_4f47f19c"
+        },
+        {
+            "type": "java",
+            "name": "Launch combina",
+            "request": "launch",
+            "mainClass": "combina",
+            "projectName": "leetcode_4f47f19c"
+        },
+        {
+            "type": "java",
+            "name": "Launch fenzu",
+            "request": "launch",
+            "mainClass": "fenzu",
+            "projectName": "leetcode_4f47f19c"
+        },
+        {
+            "type": "java",
+            "name": "Launch deCode",
+            "request": "launch",
+            "mainClass": "deCode",
+            "projectName": "leetcode_4f47f19c"
+        },
+        {
+            "type": "java",
+            "name": "Launch nextPailie",
+            "request": "launch",
+            "mainClass": "nextPailie",
+            "projectName": "leetcode_4f47f19c"
+        },
+        {
+            "type": "java",
+            "name": "Launch strStr",
+            "request": "launch",
+            "mainClass": "strStr",
+            "projectName": "leetcode_4f47f19c"
+        },
+        {
+            "type": "java",
+            "name": "Launch zuiChangHuiWen",
+            "request": "launch",
+            "mainClass": "string.zuiChangHuiWen",
+            "projectName": "leetcode_4f47f19c"
+        },
+        {
+            "type": "java",
+            "name": "Launch arraychongfu",
+            "request": "launch",
+            "mainClass": "arraychongfu",
+            "projectName": "leetcode_4f47f19c"
+        },
+        {
+            "type": "java",
+            "name": "Launch array_chongfu",
+            "request": "launch",
+            "mainClass": "dp.array_chongfu",
+            "projectName": "leetcode_4f47f19c"
+        },
+        {
+            "type": "java",
+            "name": "Launch array_chongfu",
+            "request": "launch",
+            "mainClass": "array_chongfu",
+            "projectName": "leetcode_4f47f19c"
+        },
+        {
+            "type": "java",
+            "name": "Launch cut_and_swift",
+            "request": "launch",
+            "mainClass": "dp.cut_and_swift",
+            "projectName": "leetcode_4f47f19c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "leetcode_4f47f19c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 递归切割字符串",
+            "request": "launch",
+            "mainClass": "lc2021xx5.递归切割字符串",
+            "projectName": "leetcode_4f47f19c"
+        }
+    ]
+}
