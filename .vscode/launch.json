@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch leasttime1723",
+            "request": "launch",
+            "mainClass": "leasttime1723",
+            "projectName": "leetcode_4f47f19c"
+        },
+        {
+            "type": "java",
             "name": "Launch reversrNum",
             "request": "launch",
             "mainClass": "reversrNum",
